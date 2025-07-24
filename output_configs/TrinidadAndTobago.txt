@@ -1,2 +1,1 @@
-ss://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?encryption=none&security=tls&type=grpc#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
-vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?encryption=none&security=tls&type=grpc#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
+trojan://Aimer@108.165.152.58:2087?security=tls&sni=epmn.ambercc.filegear-sg.me&type=tcp&headerType=none#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy

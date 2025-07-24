@@ -1,1 +1,7 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.94-0346
+ss://527a7c04-9a2c-4fdb-aa18-37337e62e917@csgo.com:8080?encryption=none&security=tls&sni=cdn-node-oss-99.paofu.de&type=ws&host=cdn-node-oss-99.paofu.de&path=%2Fprofile%2Ftelegram%40ssrsub#%F0%9F%87%A9%F0%9F%87%B0_%E4%B8%B9%E9%BA%A6
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.94-0359
+trojan://527a7c04-9a2c-4fdb-aa18-37337e62e917@csgo.com:8443?security=tls&sni=cdn-node-oss-99.paofu.de&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%B0_%E4%B8%B9%E9%BA%A6
+trojan://527a7c04-9a2c-4fdb-aa18-37337e62e917@fastcup.net:8443?security=tls&sni=cdn-node-oss-99.paofu.de&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%B0_%E4%B8%B9%E9%BA%A6
+trojan://527a7c04-9a2c-4fdb-aa18-37337e62e917@pubg.ac:8443?security=tls&sni=cdn-node-oss-99.paofu.de&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%B0_%E4%B8%B9%E9%BA%A6
+vless://527a7c04-9a2c-4fdb-aa18-37337e62e917@csgo.com:8080?encryption=none&security=tls&sni=cdn-node-oss-99.paofu.de&type=ws&host=cdn-node-oss-99.paofu.de&path=%2Fprofile%2Ftelegram%40ssrsub#%F0%9F%87%A9%F0%9F%87%B0_%E4%B8%B9%E9%BA%A6
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFOVx1RDgzQ1x1RERGMF9cdTRFMzlcdTlFQTYiLA0KICAiYWRkIjogImNzZ28uY29tIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiNTI3YTdjMDQtOWEyYy00ZmRiLWFhMTgtMzczMzdlNjJlOTE3IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJjZG4tbm9kZS1vc3MtOTkucGFvZnUuZGUiLA0KICAicGF0aCI6ICIvcHJvZmlsZS90ZWxlZ3JhbUBzc3JzdWIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
