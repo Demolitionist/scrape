@@ -1,6 +1,2 @@
-ss://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.92:443?encryption=none&security=tls&sni=rv.bgm2024.dpdns.org&type=ws&host=rv.bgm2024.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%A6_%E4%B9%8C%E5%85%8B%E5%85%B0
-ss://68c99831-a708-4079-a70f-283ef7ae5e16@193.238.153.24:31023?encryption=none&security=none&type=tcp&headerType=none#UA🇺🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.3.93:990#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+147.78.3.93-990+%7C+235.75ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#%F0%9F%87%BA%F0%9F%87%A6%20UA-176.103.53.105%3A990
-vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.92:443?encryption=none&security=tls&sni=rv.bgm2024.dpdns.org&type=ws&host=rv.bgm2024.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%A6_%E4%B9%8C%E5%85%8B%E5%85%B0
-vless://68c99831-a708-4079-a70f-283ef7ae5e16@193.238.153.24:31023?encryption=none&security=none&type=tcp&headerType=none#UA🇺🇦
+ss://133361c8-60e7-447a-dd5b-e7af60b9d115@193.238.153.84:33817?security=none&encryption=none&headerType=none&type=tcp#UA🇺🇦
+vless://133361c8-60e7-447a-dd5b-e7af60b9d115@193.238.153.84:33817?security=none&encryption=none&headerType=none&type=tcp#UA🇺🇦
