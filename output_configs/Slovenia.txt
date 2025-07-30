@@ -1,1 +1,2 @@
-trojan://Aimer@92.53.190.161:2087?security=tls&sni=epgr.ambercc.filegear-sg.me&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AE_%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A
+ss://171c1154-6b3e-4e1d-ad11-e75de2f56f0b@tunnyl.ru:443?security=reality&sni=yahoo.com&fp=chrome&pbk=suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI&sid=5c0333ed45b1&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#REALITY|SI🇸🇮
+vless://171c1154-6b3e-4e1d-ad11-e75de2f56f0b@tunnyl.ru:443?security=reality&sni=yahoo.com&fp=chrome&pbk=suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI&sid=5c0333ed45b1&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#REALITY|SI🇸🇮

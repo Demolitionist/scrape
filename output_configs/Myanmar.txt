@@ -1,0 +1,1 @@
+trojan://c72c88de-de73-433f-878b-51ac4f293af7@zfa03.333210.xyz:42397?allowInsecure=1&peer=cdn.alibaba.com&sni=cdn.alibaba.com&type=ws&path=%2Fbby#L2%7C%E7%BC%85%E7%94%B801%7C%E4%B8%AD%E8%BD%AC%7C4x
