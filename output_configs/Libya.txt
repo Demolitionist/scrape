@@ -1,1 +1,0 @@
-trojan://c72c88de-de73-433f-878b-51ac4f293af7@zfa03.333210.xyz:40383?allowInsecure=1&peer=cdn.alibaba.com&sni=cdn.alibaba.com&type=ws&path=%2Fbby#%E7%9B%B4%E8%BF%9E%E5%9C%B0%E5%9D%80%EF%BC%9Ahttps%3A%2F%2Fbit.ly%2Fbbyvpn

@@ -1,1 +1,2 @@
-trojan://c72c88de-de73-433f-878b-51ac4f293af7@zfa03.333210.xyz:42405?allowInsecure=1&peer=cdn.alibaba.com&sni=cdn.alibaba.com&type=ws&path=%2Fbby#L2%7C%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A601%7C%E4%B8%AD%E8%BD%AC%7C4x
+ss://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&sid=#REALITY|PK🇵🇰
+vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&sid=#REALITY|PK🇵🇰
