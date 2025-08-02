@@ -1,4 +1,2 @@
-ss://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?encryption=none&security=tls&type=grpc#%F0%9F%87%BF%F0%9F%87%A6_%E5%8D%97%E9%9D%9E
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjc5YzRmYS1iYWY5LTQ1NmMtOTE2My02N2Q5ZDNjZjZhYjU@01.liantongzf.one:47533#%F0%9F%87%BF%F0%9F%87%A6%20%E5%8D%97%E9%9D%9E
 trojan://your_password@13.244.104.87:443?security=tls&sni=aws-za-capetown-1.f1rocketnode.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%20-%20Cape%20Town%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
-vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?encryption=none&security=tls&type=grpc#%F0%9F%87%BF%F0%9F%87%A6_%E5%8D%97%E9%9D%9E

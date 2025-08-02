@@ -1,2 +1,2 @@
-ss://401374e6-df77-41fb-f638-dad8184f175b@156.238.19.95:443?encryption=none&security=tls&type=grpc#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
-vless://401374e6-df77-41fb-f638-dad8184f175b@156.238.19.95:443?encryption=none&security=tls&type=grpc#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
+ss://e67025a0-278f-4208-8690-cac092b82306@212.80.20.50:443?encryption=none&security=tls&sni=cs2.pishima.ir&type=tcp&headerType=none#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
+vless://e67025a0-278f-4208-8690-cac092b82306@212.80.20.50:443?encryption=none&security=tls&sni=cs2.pishima.ir&type=tcp&headerType=none#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
