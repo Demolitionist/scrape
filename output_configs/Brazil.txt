@@ -1,12 +1,13 @@
 hy2://238c7704-944d-40cd-a1cf-fb775d51ac54@164.152.33.5:21042?insecure=1&sni=www.bing.com#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20-%20S%C3%A3o%20Paulo%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
 ss://1a7a39e4-8c9b-4052-b8b2-c0929536bba5@95.164.4.88:8443?security=tls&sni=pq-brazil1.09vpn.com&allowInsecure=1&fp=chrome&type=ws&path=/vless/&packetEncoding=xudp&encryption=none#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20-%20S%C3%A3o%20Paulo%20%F0%9F%8C%8E%20VL-WS-TLS%204%E2%83%A3
-ss://1a7a39e48c9b4052b8b2c0929536bba5Og==@95.164.4.88:8443#BR%F0%9F%87%A7%F0%9F%87%B7+%7C+95.164.4.88-8443+%7C+135.45ms
+ss://1a7a39e48c9b4052b8b2c0929536bba5Og==@95.164.4.88:8443#BR%F0%9F%87%A7%F0%9F%87%B7+%7C+95.164.4.88-8443+%7C+129.25ms
 ss://45f01712-2893-53e3-8e6a-6b7c925021da@45.80.111.10:2052?path=/vless#Telegram-mtmvpn---Telegram-mtmvpn&security=none&encryption=none&host=sPeedtest2.sbs.br.vless.sitespeedtest.net&type=ws#ð©ðª
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@38.180.78.255:80?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A7%F0%9F%87%B7%C2%AE%EF%B8%8FBrazil%C2%A9%EF%B8%8FS%C3%A3o%20Paulo%F0%9F%85%BF%EF%B8%8Fping%3A225.24ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZTZlYjViZi1hMjM2LTQyYmQtYTdhOS1mOTI4NDkzOWZiMWQ@zz5.fgmcx.top:41179#%F0%9F%87%A7%F0%9F%87%B7%20%E5%B7%B4%E8%A5%BFss
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplM2Q2ZjMyN2Q5MTY1NmY4OWYwNw@console.03.aliyun.aq.kunlunaqs.com:45589/?plugin=simple-obfs%3Bobfs%3Dhttp%3Bobfs-host%3D215996dd9f1c3db1e54b.microsoft.com#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20093
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplM2Q2ZjMyN2Q5MTY1NmY4OWYwNw@console.03.aliyun.aq.kunlunaqs.com:45589/?plugin=simple-obfs%3Bobfs%3Dhttp%3Bobfs-host%3D4be5dcc8d73c771e331b.microsoft.com#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20093
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplekcyTHF4OFNTNjg%3D@147.45.116.44:443#Brazil%20GCS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#%F0%9F%87%A7%F0%9F%87%B7%20BR%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40argo_vpn1%20%5B6%5D
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.192.124.188:989#premium-br
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.54.57.90:989#%F0%9F%87%A7%F0%9F%87%B7BR-38.54.57.90-0375
 ss://YWVzLTI1Ni1nY206SE5IOFFVWlU1OE8xMENDRw==@185.192.124.41:20013#BR-01
@@ -16,8 +17,6 @@ trojan://6a9101bf-c289-4ca6-aef1-37b405be5429@xmlepl-2-1e6d4-548c-88c0-c4893b3d3
 trojan://6a9101bf-c289-4ca6-aef1-37b405be5429@xmlepl-2-1e6d4-548c-88c0-c4893b3d3d4d.blue-bgp.xyz:24123?allowInsecure=1&peer=cn.bing.com&sni=cn.bing.com&type=tcp#%E5%B7%B4%E8%A5%BF2%7CBGP%7C1X
 trojan://8c2bfaa1-c92f-4624-9bb2-835e99eb2b00@xmlepl-2-1e6d4-548c-88c0-c4893b3d3d4d.blue-bgp.xyz:24122?allowInsecure=1&peer=cn.bing.com&sni=cn.bing.com&type=tcp#%E5%B7%B4%E8%A5%BF1%7CBGP%7C1X
 trojan://8c2bfaa1-c92f-4624-9bb2-835e99eb2b00@xmlepl-2-1e6d4-548c-88c0-c4893b3d3d4d.blue-bgp.xyz:24123?allowInsecure=1&peer=cn.bing.com&sni=cn.bing.com&type=tcp#%E5%B7%B4%E8%A5%BF2%7CBGP%7C1X
-trojan://c1d1d581-9c6c-48ff-a291-bbce4912e4c8@xmlepl-2-1e6d4-548c-88c0-c4893b3d3d4d.blue-bgp.xyz:24122?allowInsecure=1&peer=cn.bing.com&sni=cn.bing.com&type=tcp#%E5%B7%B4%E8%A5%BF1%7CBGP%7C1X
-trojan://c1d1d581-9c6c-48ff-a291-bbce4912e4c8@xmlepl-2-1e6d4-548c-88c0-c4893b3d3d4d.blue-bgp.xyz:24123?allowInsecure=1&peer=cn.bing.com&sni=cn.bing.com&type=tcp#%E5%B7%B4%E8%A5%BF2%7CBGP%7C1X
 trojan://cc20c05a-9aa3-4441-a04b-8b1fd0cc467c@xmlepl-2-1e6d4-548c-88c0-c4893b3d3d4d.blue-bgp.xyz:24122?allowInsecure=1&peer=cn.bing.com&sni=cn.bing.com&type=tcp#%E5%B7%B4%E8%A5%BF1%7CBGP%7C1X
 trojan://cc20c05a-9aa3-4441-a04b-8b1fd0cc467c@xmlepl-2-1e6d4-548c-88c0-c4893b3d3d4d.blue-bgp.xyz:24123?allowInsecure=1&peer=cn.bing.com&sni=cn.bing.com&type=tcp#%E5%B7%B4%E8%A5%BF2%7CBGP%7C1X
 vless://1a7a39e4-8c9b-4052-b8b2-c0929536bba5@95.164.4.88:8443?security=tls&sni=pq-brazil1.09vpn.com&allowInsecure=1&fp=chrome&type=ws&path=/vless/&packetEncoding=xudp&encryption=none#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20-%20S%C3%A3o%20Paulo%20%F0%9F%8C%8E%20VL-WS-TLS%204%E2%83%A3
