@@ -1,2 +1,7 @@
+ss://6a8e7eae-d913-4f6b-8319-282dad85a56c@tunnyl.ru:443?security=reality&encryption=none&pbk=suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=5c0333ed45b1#🆔soskeynet%20🔒%20VL-TCP-%20🇸🇮%20SI%20459ms
+ss://6a8e7eae-d913-4f6b-8319-282dad85a56c@tunnyl.ru:443?security=reality&encryption=none&pbk=suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=5c0333ed45b1#🆔vless_config%20🔒%20VL-TCP-%20🇸🇮%20SI%20731ms
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.244.150:989#premium-si%20%281%29
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@91.132.94.200:989#%F0%9F%87%B8%F0%9F%87%AESI-91.132.94.200-0572
+trojan://NISHIKUITAN111@92.53.190.87:443?allowInsecure=1#SI🇸🇮
+vless://6a8e7eae-d913-4f6b-8319-282dad85a56c@tunnyl.ru:443?security=reality&encryption=none&pbk=suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=5c0333ed45b1#🆔soskeynet%20🔒%20VL-TCP-%20🇸🇮%20SI%20459ms
+vless://6a8e7eae-d913-4f6b-8319-282dad85a56c@tunnyl.ru:443?security=reality&encryption=none&pbk=suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=5c0333ed45b1#🆔vless_config%20🔒%20VL-TCP-%20🇸🇮%20SI%20731ms
