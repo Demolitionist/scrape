@@ -1,2 +1,0 @@
-ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@47.91.16.77:443?encryption=none&security=tls&sni=edgb.ambercc.filegear-sg.me&type=ws&host=edgb.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@47.91.16.77:443?encryption=none&security=tls&sni=edgb.ambercc.filegear-sg.me&type=ws&host=edgb.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
