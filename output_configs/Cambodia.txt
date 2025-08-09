@@ -1,0 +1,2 @@
+ss://6ec8d330-21cf-45f9-acd1-c75ff00c6154@kh1.nfsqttt.cn:22231?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=tls&flow=xtls-rprx-vision&fp=edge&allowInsecure=1&sni=cdn-go.cn#%E6%9F%AC%E5%9F%94%E5%AF%A8%20KH1%20%E4%BD%8F%E5%AE%85
+vless://6ec8d330-21cf-45f9-acd1-c75ff00c6154@kh1.nfsqttt.cn:22231?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=tls&flow=xtls-rprx-vision&fp=edge&allowInsecure=1&sni=cdn-go.cn#%E6%9F%AC%E5%9F%94%E5%AF%A8%20KH1%20%E4%BD%8F%E5%AE%85
