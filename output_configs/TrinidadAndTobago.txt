@@ -1,1 +1,2 @@
-trojan://ca1e2757-cccf-4e3a-a174-cc65f2285db8@sdv2-hk.04z3susick.download:5604?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com&type=tcp&headerType=none#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
+ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@183.98.166.19:10025?encryption=none&security=tls&sni=edgb.aimercc.dpdns.org&type=ws&host=edgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@183.98.166.19:10025?encryption=none&security=tls&sni=edgb.aimercc.dpdns.org&type=ws&host=edgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
