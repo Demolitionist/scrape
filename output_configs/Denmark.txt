@@ -1,5 +1,2 @@
-ss://27425750-5bf5-497b-92d4-16e67030e154@fastcup.net:8080?encryption=none&security=tls&sni=cdn-node-oss-99.paofu.de&type=ws&host=cdn-node-oss-99.paofu.de&path=%2Fprofile%2Ftelegram%40ssrsub#%F0%9F%87%A9%F0%9F%87%B0_%E4%B8%B9%E9%BA%A6
-ss://27425750-5bf5-497b-92d4-16e67030e154@pubg.ac:8080?encryption=none&security=tls&sni=cdn-node-oss-99.paofu.de&type=ws&host=cdn-node-oss-99.paofu.de&path=%2Fprofile%2Ftelegram%40ssrsub#%F0%9F%87%A9%F0%9F%87%B0_%E4%B8%B9%E9%BA%A6
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.94-0361
 ss://YWVzLTI1Ni1nY206RFk5UkVKVlU4WFlVUDU4Vg==@185.186.79.135:20028#%F0%9F%87%A9%F0%9F%87%B0%20DK-01
-vless://27425750-5bf5-497b-92d4-16e67030e154@fastcup.net:8080?encryption=none&security=tls&sni=cdn-node-oss-99.paofu.de&type=ws&host=cdn-node-oss-99.paofu.de&path=%2Fprofile%2Ftelegram%40ssrsub#%F0%9F%87%A9%F0%9F%87%B0_%E4%B8%B9%E9%BA%A6
-vless://27425750-5bf5-497b-92d4-16e67030e154@pubg.ac:8080?encryption=none&security=tls&sni=cdn-node-oss-99.paofu.de&type=ws&host=cdn-node-oss-99.paofu.de&path=%2Fprofile%2Ftelegram%40ssrsub#%F0%9F%87%A9%F0%9F%87%B0_%E4%B8%B9%E9%BA%A6
