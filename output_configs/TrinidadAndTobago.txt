@@ -1,1 +1,1 @@
-trojan://Aimer@172.67.68.56:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
+trojan://Aimer@102.134.55.53:20082?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy

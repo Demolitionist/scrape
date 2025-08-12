@@ -1,3 +1,1 @@
-trojan://4e8f29bb-5d25-46b3-9add-32f277389e81@xmlepl-2-1e6d4-548c-88c0-c4893b3d3d4d.blue-bgp.xyz:24116?allowInsecure=1&peer=cn.bing.com&sni=cn.bing.com&type=tcp#%E4%BC%8A%E6%8B%89%E5%85%8B1%7CBGP%7C1X
-trojan://6a9101bf-c289-4ca6-aef1-37b405be5429@xmlepl-2-1e6d4-548c-88c0-c4893b3d3d4d.blue-bgp.xyz:24116?allowInsecure=1&peer=cn.bing.com&sni=cn.bing.com&type=tcp#%E4%BC%8A%E6%8B%89%E5%85%8B1%7CBGP%7C1X
 trojan://e306bc9d-7060-4c88-837b-248a2ae4f1a8@iq.1mao.me:27888?allowInsecure=0&peer=iq.1mao.me&sni=iq.1mao.me&type=ws&path=%2F&host=www.microsoft.com#%F0%9F%87%AE%F0%9F%87%B6%E4%BC%8A%E6%8B%89%E5%85%8B1%200.7X%E5%80%8D%E7%8E%87
