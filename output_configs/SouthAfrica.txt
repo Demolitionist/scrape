@@ -1,3 +1,2 @@
 ss://YWVzLTI1Ni1nY206QTJOSDRFRTdOWEFLRk9HRQ==@129.232.133.62:20015#ZA-01
-trojan://Aimer@102.134.55.53:20082?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%BF%F0%9F%87%A6%20%E5%8D%97%E9%9D%9E%2001
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hv/Cfh6Yg5LiT57q/fOWNl+mdnjAx5YCN546HNSIsImFkZCI6InBweS1ib2FyZHYyLjAyaWpwNHVvczEuZG93bmxvYWQiLCJwb3J0IjoiMjYwODYiLCJpZCI6ImFhMTViOTdhLTI0YjEtM2EzMS04MjRhLWJjNTJmNWExNWJhYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9

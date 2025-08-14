@@ -1,3 +1,3 @@
-ss://5c263fe5-75f2-4d96-87e5-0e94df935833@38.54.61.25:443?mode=stream-one&path=%2Ff&security=none&encryption=none&type=xhttp#%F0%9F%87%B8%F0%9F%87%A6%20SA%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40freakconfig%20%5B7%5D
-vless://5c263fe5-75f2-4d96-87e5-0e94df935833@38.54.61.25:443?mode=stream-one&path=%2Ff&security=none&encryption=none&type=xhttp#%F0%9F%87%B8%F0%9F%87%A6%20SA%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40freakconfig%20%5B7%5D
+ss://5c263fe5-75f2-4d96-87e5-0e94df935833@38.54.61.25:443?mode=stream-one&path=%2Ff&security=none&encryption=none&type=xhttp#%F0%9F%87%B8%F0%9F%87%A6%20SA%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40freakconfig%20%5B5%5D
+vless://5c263fe5-75f2-4d96-87e5-0e94df935833@38.54.61.25:443?mode=stream-one&path=%2Ff&security=none&encryption=none&type=xhttp#%F0%9F%87%B8%F0%9F%87%A6%20SA%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40freakconfig%20%5B5%5D
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6Yg5LiT57q/fOaymeeJuemYv+aLieS8rzAx5YCN546HNSIsImFkZCI6InBweS1ib2FyZHYyLjAyaWpwNHVvczEuZG93bmxvYWQiLCJwb3J0IjoiMjYwODgiLCJpZCI6ImFhMTViOTdhLTI0YjEtM2EzMS04MjRhLWJjNTJmNWExNWJhYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9
