@@ -1,1 +1,2 @@
-trojan://Aimer@183.178.254.158:20800?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
+ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@158.101.145.82:443?encryption=none&security=tls&sni=edgc.aimercc.dpdns.org&type=ws&host=edgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@158.101.145.82:443?encryption=none&security=tls&sni=edgc.aimercc.dpdns.org&type=ws&host=edgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
