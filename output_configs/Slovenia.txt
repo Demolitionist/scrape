@@ -1,10 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990#🆔ar14n24b%20🔒%20SS-TCP-TLS%20🇸🇮%20SI%20126ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.244.150:989#%F0%9F%87%B8%F0%9F%87%AESI-192.71.244.150-0318
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.244.150:989#%F0%9F%87%B8%F0%9F%87%AESI-192.71.244.150-4992
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@91.132.94.200:989#SI%F0%9F%87%B8%F0%9F%87%AE+%7C+91.132.94.200-989+%7C+192.76ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990#🆔ar14n24b%20🔒%20SS-TCP-TLS%20🇸🇮%20SI%20down
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.244.150:989#%F0%9F%87%B8%F0%9F%87%AESI-192.71.244.150-0344
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.244.150:989#%F0%9F%87%B8%F0%9F%87%AESI-192.71.244.150-4832
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@91.132.94.200:989#%F0%9F%87%B8%F0%9F%87%AESI-91.132.94.200-0932
-ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.83.129.58:8443?path=%2F&security=tls&encryption=none&type=ws#SI🇸🇮
-ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.53.189.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/#%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A+V2CROSS.COM
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.83.129.58:8443?path=%2F&security=tls&encryption=none&type=ws#SI🇸🇮
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.53.189.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/#%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A+V2CROSS.COM
+trojan://Aimer@92.53.190.161:2087?security=tls&sni=epgc.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AE_%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A

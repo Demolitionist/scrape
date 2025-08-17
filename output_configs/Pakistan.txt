@@ -1,5 +1,7 @@
 ss://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY|PK🇵🇰
+ss://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&sid=#REALITY|PK🇵🇰
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZDlkMmE5Yy1jZWI2LTRjOWItOGRiNS0yYzBkMGJhMjJmYmY=@del.papermsg.com:36175#%F0%9F%87%B5%F0%9F%87%B0%20PK%20VCPL%2001
 ss://YWVzLTI1Ni1nY206MUpJOFoxWDdVNlIxTk9XVw==@223.165.5.107:20023#PK-01
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY|PK🇵🇰
+vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&sid=#REALITY|PK🇵🇰
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HtfCfh7Ag5LiT57q/fOW3tOWfuuaWr+WdpjAx5YCN546HNSIsImFkZCI6InBweS1ib2FyZHYyLjAyaWpwNHVvczEuZG93bmxvYWQiLCJwb3J0IjoiMjYxMzUiLCJpZCI6ImFhMTViOTdhLTI0YjEtM2EzMS04MjRhLWJjNTJmNWExNWJhYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9

@@ -1,8 +1,6 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.94-0271
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.94-0306
+ss://55520747-311e-4015-83ce-be46e2060ce3@2.59.183.181:443?encryption=none&security=tls&sni=xz.bgm2024.dpdns.org&type=ws&host=xz.bgm2024.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%B0_%E4%B8%B9%E9%BA%A6
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.94-0300
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.94-0321
 ss://YWVzLTI1Ni1nY206RFk5UkVKVlU4WFlVUDU4Vg==@185.186.79.135:20028#%F0%9F%87%A9%F0%9F%87%B0%20DK-01
-ss://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374?security=reality&encryption=none&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d21e7c#REALITY|DK🇩🇰
-trojan://a134e3de-b25a-4020-9998-05fa6b715f1a@pubg.ac:8443?sni=cdn-node-oss-99.paofu.de#%F0%9F%87%A9%F0%9F%87%B0DK%E4%B8%B9%E9%BA%A6
-vless://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374?security=reality&encryption=none&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d21e7c#REALITY|DK🇩🇰
+vless://55520747-311e-4015-83ce-be46e2060ce3@2.59.183.181:443?encryption=none&security=tls&sni=xz.bgm2024.dpdns.org&type=ws&host=xz.bgm2024.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%B0_%E4%B8%B9%E9%BA%A6
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh7Ag5LiT57q/fOS4uem6pjAx5YCN546HNSIsImFkZCI6InBweS1ib2FyZHYyLjAyaWpwNHVvczEuZG93bmxvYWQiLCJwb3J0IjoiMjYxNDkiLCJpZCI6ImFhMTViOTdhLTI0YjEtM2EzMS04MjRhLWJjNTJmNWExNWJhYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9
-vmess://eyJhZGQiOiJjc2dvLmNvbSIsImFpZCI6MCwiaG9zdCI6ImNkbi1ub2RlLW9zcy05OS5wYW9mdS5kZSIsImlkIjoiYTEzNGUzZGUtYjI1YS00MDIwLTk5OTgtMDVmYTZiNzE1ZjFhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3Byb2ZpbGUvdGVsZWdyYW1Ac3Nyc3ViIiwicG9ydCI6ODAsInBzIjoi8J+HqfCfh7BfREtf5Li56bqmIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
